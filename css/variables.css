@@ -1,6 +1,7 @@
 :root{
     --color-primary: #e58f00;
     --color-secundary: #17171e;
+    --banishBackGround: #17171e54;
     --color-ternario: #323239;
     --color-font: #fff;
 }
